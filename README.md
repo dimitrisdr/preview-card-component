@@ -51,18 +51,15 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+      <picture class="img-container">
+        <source srcset="images\image-product-desktop.jpg"
+                media="(min-width: 600px)">
+        <img src="images\image-product-mobile.jpg" alt="perfume image" class="img">
+      </picture>
 ```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+
+
+
 
 ## Author
 
