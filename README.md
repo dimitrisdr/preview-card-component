@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project image](images\project.jpeg)
+![Project image](project.jpeg)
 
 
 ### Links
